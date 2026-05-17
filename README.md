@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Naresh Prasad Yadav 👋</h1>
+<h1 align="center">Hey, I'm Naresh Prasad Yadav</h1>
 
 <p align="center">
   Fresher DevOps Engineer &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; Terraform &nbsp;|&nbsp; CI/CD
