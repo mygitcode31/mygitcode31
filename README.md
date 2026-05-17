@@ -7,7 +7,7 @@
 <p align="center">
   Mechanical Engineer who made a deliberate switch into DevOps. <br>
   Spent 6 months building real pipelines, containerizing apps, and provisioning AWS infrastructure from scratch. <br>
-  3 projects. All end-to-end. All live on GitHub.
+  3 projects. All end-to-end. All are on GitHub.
 </p>
 
 ---
