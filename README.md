@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Naresh Prasad Yadav</h1>
 
 <p align="center">
-  Trained DevOps Engineer &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; Terraform &nbsp;|&nbsp; CI/CD
+  Junior DevOps Engineer &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; Terraform &nbsp;|&nbsp; CI/CD
 </p>
 
 <p align="center">
